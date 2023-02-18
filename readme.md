@@ -14,7 +14,7 @@ The [`next-js-google-drive-directory`](https://github.com/gbti-labs/membership-r
 
 This repository includes all the necessary code and configurations to get you started. Additionally, it comes with a detailed README file that explains how to set up and deploy the application. With `next-js-google-drive-directory`, you can create a customizable and responsive directory that displays your Google Drive files and folders with ease.
 
-## Join Us Today
+## Become a Member
 
 Join GBTI today and gain access to our private repositories, along with a wide range of resources and support. We're excited to have you as part of our community and look forward to seeing all the amazing projects you'll create. To join, simply visit our [registration page](https://gbti.io) and sign up.
 
