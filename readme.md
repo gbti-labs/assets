@@ -25,7 +25,7 @@ By joining GBTI, you acknowledge and agree to the following:
 - GBTI is not responsible for the content posted or shared by its members.
 - GBTI is not responsible for any damages, losses, or liabilities that may result from your use of any resources, tools, or information provided by GBTI or its members.
 - GBTI does not guarantee the availability, quality, or accuracy of any resources or services provided to its members.
-- GBTI is a self-serve community and does not offer technical support to its members.
+- GBTI is a self-serve community and does not guarantee technical support to its members.
 - If you require technical support, we offer third-party services at a minimum hourly development rate of $80 and a maximum of $120. Please contact us at [gbti.labs@gmail.com](mailto:gbti.labs@gmail.com) for more information.
 
 GBTI may update or modify these disclaimers at any time.
