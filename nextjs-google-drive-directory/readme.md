@@ -1,6 +1,6 @@
 # About Private Repos
 
-This asset is exclusive to the GBTI Membership community. For more information about how to join please head to [gbti.io](https://gbti.io)
+This asset is exclusive to the **GBTI Membership** community. For more information about how to join please head to [gbti.io](https://gbti.io)
 
 # Video Introduction
 
