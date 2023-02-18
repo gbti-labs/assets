@@ -1,5 +1,7 @@
 # GBTI Membership Asset
 
+https://www.youtube.com/watch?v=B71tP06CDA4
+
 **NextJs Google Drive Directory** is a private repository provided to members of the [GBTI Community](https://gbti.io). 
 
 # NextJs Google Drive Directory
