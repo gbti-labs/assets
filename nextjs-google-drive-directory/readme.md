@@ -1,3 +1,7 @@
+# About Private Repos
+
+This asset is exclusive to the GBTI Membership community. For more information about how to join please head to [gbti.io](https://gbti.io)
+
 # Video Introduction
 
 * [Introduction - NextJS Google Drive Directory](https://www.youtube.com/watch?v=t_pQ1xy7cTo)
