@@ -1,6 +1,6 @@
 # GBTI Membership Asset
 
-https://www.youtube.com/watch?v=B71tP06CDA4
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/B71tP06CDA4/0.jpg)](http://www.youtube.com/watch?v=B71tP06CDA4 "REACT/NextJS app that turns any Google Drive folder into a custom directory application.")
 
 **NextJs Google Drive Directory** is a private repository provided to members of the [GBTI Community](https://gbti.io). 
 
