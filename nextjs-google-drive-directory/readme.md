@@ -6,6 +6,7 @@ This asset is exclusive to the **GBTI Membership** community. For more informati
 
 * [Introduction - NextJS Google Drive Directory](https://www.youtube.com/watch?v=t_pQ1xy7cTo)
 * [Installation Tutorial - Localhost - NextJS Google Drive Directory](https://www.youtube.com/watch?v=Fsatd2HkBxk)
+* [Installation Tutorial - Vercel and SubDomain Setup - NextJS Google Drive Directory](https://www.youtube.com/watch?v=fy0WG4J9jPA)
 
 **NextJs Google Drive Directory** is a private repository provided to members of the [GBTI Community](https://gbti.io). 
 
